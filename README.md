@@ -17,7 +17,7 @@
 ---
 
 ## How It Works
-1. The script contains a **list of services** to monitor.
-2. For each service, it runs:
-   ```bash
+The script contains a **list of services** to monitor.
    
+# Author
+Arjun Monga
