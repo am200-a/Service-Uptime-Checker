@@ -20,7 +20,9 @@
 The script contains a **list of services** to monitor.
 
 THE OUTPUT
+
 <img width="793" height="680" alt="image" src="https://github.com/user-attachments/assets/4cac42e3-22e5-4147-ac92-251bd0f7c6a3" />
+
 
    
 # Author
